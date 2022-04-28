@@ -12,7 +12,7 @@ const Footer = () => {
             className=""
           />
         </div>
-        <p>IMDB Plus is every bit as good as IMDB. Plus!</p>
+        <p>IMDB Plus is every bit as good as IMDB. Plus! Minus!</p>
       </div>
     </footer>
 
